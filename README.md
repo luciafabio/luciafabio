@@ -1,0 +1,3 @@
+- 👋 Hey there! 
+- 👀 I’m interested in all things data 
+- 🌱 I’m currenty working as a data engineer in Barcelona
